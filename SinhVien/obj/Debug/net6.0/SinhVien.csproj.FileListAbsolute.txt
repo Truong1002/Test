@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\SinhVien\SinhVien\bin\Debug\net6.0\SinhVien.exe
+C:\Users\Admin\OneDrive\Desktop\SinhVien\SinhVien\bin\Debug\net6.0\SinhVien.deps.json
+C:\Users\Admin\OneDrive\Desktop\SinhVien\SinhVien\bin\Debug\net6.0\SinhVien.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\SinhVien\SinhVien\bin\Debug\net6.0\SinhVien.dll
+C:\Users\Admin\OneDrive\Desktop\SinhVien\SinhVien\bin\Debug\net6.0\SinhVien.pdb
+C:\Users\Admin\OneDrive\Desktop\SinhVien\SinhVien\obj\Debug\net6.0\SinhVien.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\SinhVien\SinhVien\obj\Debug\net6.0\SinhVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\SinhVien\SinhVien\obj\Debug\net6.0\SinhVien.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\SinhVien\SinhVien\obj\Debug\net6.0\SinhVien.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\SinhVien\SinhVien\obj\Debug\net6.0\SinhVien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\SinhVien\SinhVien\obj\Debug\net6.0\SinhVien.dll
+C:\Users\Admin\OneDrive\Desktop\SinhVien\SinhVien\obj\Debug\net6.0\refint\SinhVien.dll
+C:\Users\Admin\OneDrive\Desktop\SinhVien\SinhVien\obj\Debug\net6.0\SinhVien.pdb
+C:\Users\Admin\OneDrive\Desktop\SinhVien\SinhVien\obj\Debug\net6.0\SinhVien.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\SinhVien\SinhVien\obj\Debug\net6.0\ref\SinhVien.dll
